@@ -8,6 +8,6 @@ has_toc: false
 
 # Windows
 
-This is our collection of RITSEC Red Team Windows specific tools
+This is our collection of RITSEC Red Team Windows specific tools.
 
 - [Nosferatu](/windows/nosferatu/) - Windows NTLM Authentication Backdoor

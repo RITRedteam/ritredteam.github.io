@@ -11,4 +11,4 @@ Windows NTLM Authentication Backdoor that hooks into lsass.exe. Backdoor passwor
 
 ## Authors
 
-- The Hacker Known as "Kindtime" - [Kindtime](https://github.com/kindtime)
+- kindtime - [Kindtime](https://github.com/kindtime)
