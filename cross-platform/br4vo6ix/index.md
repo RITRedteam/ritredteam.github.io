@@ -9,8 +9,10 @@ has_children: true
 
 ![nil](https://img.shields.io/badge/nil-goated-green)
 
-> _DISCLAIMER: This tool is for educational, competition, and training purposes only. I am in no way responsible for any abuse of this tool_
+> DISCLAIMER: This tool is for educational, competition, and training purposes only. I am in no way responsible for any abuse of this tool
 
 This is a golang C2 + Implant that communicates via [Protocol Buffers](https://developers.google.com/protocol-buffers) (aka. `protobuf`s).
 
-> _Note: this tool is still HEAVILY in development_
+## Authors
+
+- Brad "_The Cybersecurity Chad_" - [BradHacker](https://github.com/BradHacker)

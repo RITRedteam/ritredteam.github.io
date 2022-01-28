@@ -7,4 +7,8 @@ has_children: true
 
 # Nosferatu
 
-> Lsass NTLM Authentication Backdoor
+Lsass NTLM Authentication Backdoor
+
+## Authors
+
+- The Hacker Known as "Kindtime" - [Kindtime](https://github.com/kindtime)
