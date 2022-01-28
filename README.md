@@ -70,7 +70,11 @@ Now you are free to add other pages to your tool folder as needed. The table of 
 
 ## Local Development
 
-If you want to develop the website with a local webserver running, theres a few prerequisites:
+### Using Docker
+Simply run `docker-compose up` in the directory and view the website at `http://0.0.0.0:4000`
+
+### Local Machine
+If you want to develop the website on your local machine, theres a few prerequisites:
 
 - Ruby `3.1.0`
 - Bundler `>2.3.3` (to install just `gem install bundler`)
