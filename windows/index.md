@@ -10,4 +10,4 @@ has_toc: false
 
 This is our collection of RITSEC Red Team Windows specific tools
 
-- [Nosferatu](/windows/nosferatu/) - Lsass NTLM Authentication Backdoor
+- [Nosferatu](/windows/nosferatu/) - Windows NTLM Authentication Backdoor
