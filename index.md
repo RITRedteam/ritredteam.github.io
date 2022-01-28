@@ -50,3 +50,6 @@ Hopefully, the journey toward fulfilling the requirements will teach you how muc
 ## How is it fair that redteam is able to prebake on machines?
 
 Prebaking on machines gives bleue teams something todo right at the start of the competition. The competitions are meant to simulate droping a team inside of an infected environment. As such we have to give them something to look for. 
+
+# Tools
+[Tool Documentation](link)
