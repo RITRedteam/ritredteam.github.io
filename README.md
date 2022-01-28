@@ -8,6 +8,8 @@ This is our wiki. Here we will document all of our publicly released tools.
 
 > Note: please be sure to strictly follow the metadata instructions in order to ensure your tool properly shows up in the sidebar
 
+Spinning up a local copy of the website while you write your documentation is completely optional. Realistically, if you were to strictly follow these instructions, you could write your documentation and push it without ever spinning up a local copy. However, if you do want to, see [Local Development](#local-development).
+
 ### Identify your category
 
 First, identify which category your tool falls into:
@@ -65,3 +67,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > Note: if the `nav_order` field is omitted, the pages will just be sorted alphabetically
 
 Now you are free to add other pages to your tool folder as needed. The table of contents on the home page is auto-generated so no need to worry about generating that (auto generates links to all of the pages in your directory).
+
+## Local Development
+
+If you want to develop the website with a local webserver running, theres a few prerequisites:
+
+- Ruby `3.1.0`
+- Bundler `>2.3.3` (to install just `gem install bundler`)
+
+Install all dependencies
+
+```
+$ cd /path/to/repo
+$ bundle
+```
+
+Then stand up the webserver
+
+```
+$ bundle exec jekyll serve
+```
