@@ -13,8 +13,11 @@ has_children: true
 
 This is a golang agent that utilizes libpcap / winpcap to open a port or send a shell back as a result of a technique called Port Knocking.
 
-## Authors
+### Github Link: [vishnu](https://github.com/RITRedteam/vishnu)
 
-- PabloPotat0 - [Emmanuel](https://github.com/emmaunel)
+
+# Authors
+
+- PabloPotat0 - [PabloPotat0](https://github.com/emmaunel)
 - mav8557 - [mav8557](https://github.com/mav8557)
 - d3adzo - [d3adzo](https://github.com/d3adzo)

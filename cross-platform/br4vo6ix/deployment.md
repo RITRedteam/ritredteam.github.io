@@ -6,7 +6,7 @@ grand_parent: Cross Platform
 nav_order: 1
 ---
 
-## Deployment
+# Deployment
 
 You're going to need two `.env` files, one for the server and one for the frontend.
 
