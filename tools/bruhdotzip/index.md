@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bruhdotzip
-parent: cross-platform
+parent: Tools
 has_children: true
 ---
 

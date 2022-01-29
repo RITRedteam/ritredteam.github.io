@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Br4vo6ix
-parent: Cross Platform
+parent: Tools
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DiscordGo
-parent: Cross Platform
+parent: Tools
 ---
 
 # DiscordGo

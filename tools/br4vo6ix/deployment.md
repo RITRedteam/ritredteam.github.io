@@ -2,7 +2,7 @@
 layout: default
 title: Deployment
 parent: Br4vo6ix
-grand_parent: Cross Platform
+grand_parent: Tools
 nav_order: 1
 ---
 

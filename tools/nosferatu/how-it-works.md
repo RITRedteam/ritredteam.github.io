@@ -2,7 +2,7 @@
 layout: default
 title: How it works
 parent: nosferatu
-grand_parent: Windows
+grand_parent: Tools
 nav_order: 1
 ---
 

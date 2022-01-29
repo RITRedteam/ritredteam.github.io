@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nosferatu
-parent: Windows
+parent: Tools
 has_children: true
 ---
 

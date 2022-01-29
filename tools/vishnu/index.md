@@ -1,7 +1,7 @@
 ---
 layout: default
 title: vishnu
-parent: Cross Platform
+parent: tools
 has_children: true
 ---
 

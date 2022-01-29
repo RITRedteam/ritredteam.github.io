@@ -2,7 +2,7 @@
 layout: default
 title: Usage
 parent: nosferatu
-grand_parent: Windows
+grand_parent: Tools
 nav_order: 2
 ---
 
