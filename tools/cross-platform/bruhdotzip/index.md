@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bruhdotzip
-parent: Linux
+title: bruhdotzip
+parent: cross-platform
 has_children: true
 ---
 

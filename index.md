@@ -13,10 +13,11 @@ nav_order: 1
   {: .text-delta }
 - [Home](/)
 - [FAQ](/faq)
-- [Windows](/windows)
-- [Linux](/linux)
-- [Networking](/networking)
-- [Cross Platform](/cross-platform)
+- [All Tools](/tools)
+- [Windows](/tools/windows)
+- [Linux](/tools/linux)
+- [Networking](/tools/networking)
+- [Cross Platform](/tools/cross-platform)
 </details>
 
 RITSEC Redteam is a group of students and alumni write and use custom tooling to attack competition infrastructure. This provides a challenging learning environment for blue teams.

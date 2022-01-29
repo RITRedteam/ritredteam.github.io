@@ -13,9 +13,6 @@ has_children: true
 
 This is a golang C2 + Implant that communicates via [Protocol Buffers](https://developers.google.com/protocol-buffers) (aka. `protobuf`s).
 
-### Github Link: [Br4vo6ix](https://github.com/BradHacker/Br4vo6ix)
-
-
-# Authors
+## Authors
 
 - Brad "_The Cybersecurity Chad_" - [BradHacker](https://github.com/BradHacker)

@@ -79,7 +79,7 @@ Run `clean` in any channel to organize bots into their respective categories.
 
 Logo by @BradHacker(https://github.com/BradHacker)
 
-# Authors
+## Authors
 
 - PabloPotat0 - [PabloPotat0](https://github.com/emmanuel)
 - d3adzo - [d3adzo](https://github.com/d3adzo)

@@ -2,7 +2,7 @@
 layout: default
 title: Windows
 has_children: true
-nav_order: 3
+nav_order: 5
 has_toc: false
 ---
 
@@ -10,4 +10,4 @@ has_toc: false
 
 This is our collection of RITSEC Red Team Windows specific tools.
 
-- [Nosferatu](/windows/nosferatu/) - Windows NTLM Authentication Backdoor
+- [nosferatu](/tools/windows/nosferatu/) - Windows NTLM Authentication Backdoor

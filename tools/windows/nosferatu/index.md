@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nosferatu
+title: nosferatu
 parent: Windows
 has_children: true
 ---
@@ -11,4 +11,4 @@ Windows NTLM Authentication Backdoor that hooks into lsass.exe. Backdoor passwor
 
 ## Authors
 
-- kindtime - [Kindtime](https://github.com/kindtime)
+- [kindtime](https://github.com/kindtime)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Limitations
-parent: Nosferatu
+parent: nosferatu
 grand_parent: Windows
 nav_order: 3
 ---

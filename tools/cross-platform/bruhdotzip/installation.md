@@ -2,7 +2,7 @@
 layout: default
 title: Installation
 parent: bruhdotzip
-grand_parent: linux
+grand_parent: cross-platform
 nav_order: 1
 ---
 
