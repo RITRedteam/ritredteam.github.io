@@ -2,7 +2,7 @@ version: '2.4'
 
 services:
   jekyll:
-    image: jekyll/jekyll:latest
+    image: jekyll/jekyll:4.0
     volumes:
       - .:/srv/jekyll
     ports:
